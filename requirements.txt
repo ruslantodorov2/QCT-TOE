@@ -1,2 +1,9 @@
-streamlit
+streamlit==1.24.1
+pandas>2.0
+numpy<=1.25.1
+plotly
 cupy-cuda12x
+matplotlib
+scipy
+tqdm
+json
