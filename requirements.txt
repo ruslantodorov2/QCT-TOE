@@ -1,1 +1,2 @@
 streamlit
+cupy-cuda12x
