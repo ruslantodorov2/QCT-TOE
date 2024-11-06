@@ -6,4 +6,3 @@ cupy-cuda12x
 matplotlib
 scipy
 tqdm
-json
